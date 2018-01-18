@@ -1,0 +1,20 @@
+F:\Project\WebServiceDemo\H3.BizBus\bin\Debug\H3.BizBus.dll
+F:\Project\WebServiceDemo\H3.BizBus\bin\Debug\H3.BizBus.pdb
+F:\Project\WebServiceDemo\H3.BizBus\obj\Debug\H3.BizBus.dll
+F:\Project\WebServiceDemo\H3.BizBus\obj\Debug\H3.BizBus.pdb
+C:\Users\Administrator\Desktop\2017112301\氚云集成\WebServiceDemo\WebServiceDemo\H3.BizBus\bin\Debug\H3.BizBus.dll
+C:\Users\Administrator\Desktop\2017112301\氚云集成\WebServiceDemo\WebServiceDemo\H3.BizBus\bin\Debug\H3.BizBus.pdb
+C:\Users\Administrator\Desktop\2017112301\氚云集成\WebServiceDemo\WebServiceDemo\H3.BizBus\obj\Debug\H3.BizBus.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\2017112301\氚云集成\WebServiceDemo\WebServiceDemo\H3.BizBus\obj\Debug\H3.BizBus.dll
+C:\Users\Administrator\Desktop\2017112301\氚云集成\WebServiceDemo\WebServiceDemo\H3.BizBus\obj\Debug\H3.BizBus.pdb
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo\H3.BizBus\bin\Debug\H3.BizBus.dll
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo\H3.BizBus\bin\Debug\H3.BizBus.pdb
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo\H3.BizBus\obj\Debug\H3.BizBus.csproj.CoreCompileInputs.cache
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo\H3.BizBus\obj\Debug\H3.BizBus.dll
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo\H3.BizBus\obj\Debug\H3.BizBus.pdb
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo\H3.BizBus\obj\Debug\H3.BizBus.csprojResolveAssemblyReference.cache
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo - 副本 (3)\H3.BizBus\bin\Debug\H3.BizBus.dll
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo - 副本 (3)\H3.BizBus\bin\Debug\H3.BizBus.pdb
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo - 副本 (3)\H3.BizBus\obj\Debug\H3.BizBus.csproj.CoreCompileInputs.cache
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo - 副本 (3)\H3.BizBus\obj\Debug\H3.BizBus.dll
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo - 副本 (3)\H3.BizBus\obj\Debug\H3.BizBus.pdb
