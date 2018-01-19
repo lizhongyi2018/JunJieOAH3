@@ -1,0 +1,18 @@
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo\H3.BizBus.HR\bin\Debug\H3.BizBus.HR.dll
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo\H3.BizBus.HR\bin\Debug\H3.BizBus.HR.pdb
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo\H3.BizBus.HR\obj\Debug\H3.BizBus.HR.csproj.CoreCompileInputs.cache
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo\H3.BizBus.HR\obj\Debug\H3.BizBus.HR.dll
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo\H3.BizBus.HR\obj\Debug\H3.BizBus.HR.pdb
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo\H3.BizBus.HR\bin\Debug\H3.BizBus.dll
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo\H3.BizBus.HR\bin\Debug\Newtonsoft.Json.dll
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo\H3.BizBus.HR\bin\Debug\H3.BizBus.pdb
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo\H3.BizBus.HR\obj\Debug\H3.BizBus.HR.csprojResolveAssemblyReference.cache
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo - 副本 (3)\H3.BizBus.HR\bin\Debug\H3.BizBus.HR.dll
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo - 副本 (3)\H3.BizBus.HR\bin\Debug\H3.BizBus.HR.pdb
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo - 副本 (3)\H3.BizBus.HR\bin\Debug\H3.BizBus.dll
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo - 副本 (3)\H3.BizBus.HR\bin\Debug\Newtonsoft.Json.dll
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo - 副本 (3)\H3.BizBus.HR\bin\Debug\H3.BizBus.pdb
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo - 副本 (3)\H3.BizBus.HR\obj\Debug\H3.BizBus.HR.csprojResolveAssemblyReference.cache
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo - 副本 (3)\H3.BizBus.HR\obj\Debug\H3.BizBus.HR.csproj.CoreCompileInputs.cache
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo - 副本 (3)\H3.BizBus.HR\obj\Debug\H3.BizBus.HR.dll
+D:\资料2017\桌面\2017112301\氚云集成\WebServiceDemo\WebServiceDemo - 副本 (3)\H3.BizBus.HR\obj\Debug\H3.BizBus.HR.pdb
